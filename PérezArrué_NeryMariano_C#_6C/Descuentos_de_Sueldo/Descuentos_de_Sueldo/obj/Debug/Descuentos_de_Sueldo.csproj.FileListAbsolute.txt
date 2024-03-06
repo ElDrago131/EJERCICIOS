@@ -1,0 +1,7 @@
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Descuentos_de_Sueldo\Descuentos_de_Sueldo\bin\Debug\Descuentos_de_Sueldo.exe.config
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Descuentos_de_Sueldo\Descuentos_de_Sueldo\bin\Debug\Descuentos_de_Sueldo.exe
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Descuentos_de_Sueldo\Descuentos_de_Sueldo\bin\Debug\Descuentos_de_Sueldo.pdb
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Descuentos_de_Sueldo\Descuentos_de_Sueldo\obj\Debug\Descuentos_de_Sueldo.csproj.AssemblyReference.cache
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Descuentos_de_Sueldo\Descuentos_de_Sueldo\obj\Debug\Descuentos_de_Sueldo.csproj.CoreCompileInputs.cache
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Descuentos_de_Sueldo\Descuentos_de_Sueldo\obj\Debug\Descuentos_de_Sueldo.exe
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Descuentos_de_Sueldo\Descuentos_de_Sueldo\obj\Debug\Descuentos_de_Sueldo.pdb

@@ -1,0 +1,14 @@
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Promedio_de_Ventas\Promedio_de_Ventas\bin\Debug\Promedio_de_Ventas.exe.config
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Promedio_de_Ventas\Promedio_de_Ventas\bin\Debug\Promedio_de_Ventas.exe
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Promedio_de_Ventas\Promedio_de_Ventas\bin\Debug\Promedio_de_Ventas.pdb
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Promedio_de_Ventas\Promedio_de_Ventas\obj\Debug\Promedio_de_Ventas.csproj.AssemblyReference.cache
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Promedio_de_Ventas\Promedio_de_Ventas\obj\Debug\Promedio_de_Ventas.csproj.CoreCompileInputs.cache
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Promedio_de_Ventas\Promedio_de_Ventas\obj\Debug\Promedio_de_Ventas.exe
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Promedio_de_Ventas\Promedio_de_Ventas\obj\Debug\Promedio_de_Ventas.pdb
+C:\Users\neryr\OneDrive\Escritorio\PérezArrué_NeryMariano_C#_6C\Promedio_de_Ventas\Promedio_de_Ventas\bin\Debug\Promedio_de_Ventas.exe.config
+C:\Users\neryr\OneDrive\Escritorio\PérezArrué_NeryMariano_C#_6C\Promedio_de_Ventas\Promedio_de_Ventas\bin\Debug\Promedio_de_Ventas.exe
+C:\Users\neryr\OneDrive\Escritorio\PérezArrué_NeryMariano_C#_6C\Promedio_de_Ventas\Promedio_de_Ventas\bin\Debug\Promedio_de_Ventas.pdb
+C:\Users\neryr\OneDrive\Escritorio\PérezArrué_NeryMariano_C#_6C\Promedio_de_Ventas\Promedio_de_Ventas\obj\Debug\Promedio_de_Ventas.csproj.AssemblyReference.cache
+C:\Users\neryr\OneDrive\Escritorio\PérezArrué_NeryMariano_C#_6C\Promedio_de_Ventas\Promedio_de_Ventas\obj\Debug\Promedio_de_Ventas.csproj.CoreCompileInputs.cache
+C:\Users\neryr\OneDrive\Escritorio\PérezArrué_NeryMariano_C#_6C\Promedio_de_Ventas\Promedio_de_Ventas\obj\Debug\Promedio_de_Ventas.exe
+C:\Users\neryr\OneDrive\Escritorio\PérezArrué_NeryMariano_C#_6C\Promedio_de_Ventas\Promedio_de_Ventas\obj\Debug\Promedio_de_Ventas.pdb

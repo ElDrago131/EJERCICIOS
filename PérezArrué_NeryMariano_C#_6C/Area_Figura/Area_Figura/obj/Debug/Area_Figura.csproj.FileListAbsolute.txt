@@ -1,0 +1,7 @@
+C:\Users\neryr\OneDrive\Escritorio\Programas\Area_Figura\Area_Figura\bin\Debug\Area_Figura.exe.config
+C:\Users\neryr\OneDrive\Escritorio\Programas\Area_Figura\Area_Figura\bin\Debug\Area_Figura.exe
+C:\Users\neryr\OneDrive\Escritorio\Programas\Area_Figura\Area_Figura\bin\Debug\Area_Figura.pdb
+C:\Users\neryr\OneDrive\Escritorio\Programas\Area_Figura\Area_Figura\obj\Debug\Area_Figura.csproj.AssemblyReference.cache
+C:\Users\neryr\OneDrive\Escritorio\Programas\Area_Figura\Area_Figura\obj\Debug\Area_Figura.csproj.CoreCompileInputs.cache
+C:\Users\neryr\OneDrive\Escritorio\Programas\Area_Figura\Area_Figura\obj\Debug\Area_Figura.exe
+C:\Users\neryr\OneDrive\Escritorio\Programas\Area_Figura\Area_Figura\obj\Debug\Area_Figura.pdb

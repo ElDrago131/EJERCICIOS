@@ -1,0 +1,7 @@
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Conversor\Conversor\obj\Debug\Conversor.pdb
+C:\Users\neryr\OneDrive\Escritorio\Programas - Ejercicios en clase\Conversor\Conversor\obj\Debug\Conversor.csproj.AssemblyReference.cache
