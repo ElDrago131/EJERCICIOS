@@ -1,3 +1,3 @@
 # EJERCICIOS
 
-Nery Mariano Pérez Arrué
+Pérez Arrué Nery Mariano
